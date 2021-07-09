@@ -1,0 +1,8 @@
+./node_modules/*
+./app/client/build/*
+app/node_modules/*
+app/client/node_modules/*
+app/client/.gitignore
+.DS_Store
+*.swp
+*.swo
