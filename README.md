@@ -1,3 +1,8 @@
+# Cookable 
+Web Application developed for Software Engineering CSC 648 course. Built in Javascript and wrapped in React framework and Material UI. 
+Cookable is a web application where users can register and log in or browse as guest and view hundreds of recipes that were inputted in web app's database. 
+User's can become registered users and gain privileges such as editing personal recipe list, adding recipes to web app's database, browse recipes, and add personal recipes user can create based on pantry functionality. 
+
 # csc648-sp19-Team205
 
 ## FILE STRUCTURE
